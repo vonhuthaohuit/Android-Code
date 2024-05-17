@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dsquocgia>
+    <quocgia>
+        <hinh>brazil</hinh>
+        <ten>Brazil</ten>
+        <dientich>8.349.320 km2</dientich>
+        <danso>217.474.984</danso>
+        <thudo>Brasilia </thudo>
+        <chauluc>Châu Mỹ</chauluc>
+    </quocgia>
+    <quocgia>
+        <hinh>aicap</hinh>
+        <ten>Ai Cập</ten>
+        <dientich>1.002.000 km2</dientich>
+        <danso>114.247.711</danso>
+        <thudo>Cairô</thudo>
+        <chauluc>Châu Phi</chauluc>
+    </quocgia>
+    <quocgia>
+        <hinh>vietnam</hinh>
+        <ten>Việt Nam</ten>
+        <dientich>331,212 km2</dientich>
+        <danso>100.000.000</danso>
+        <thudo>Ha Noi</thudo>
+        <chauluc>Châu Á</chauluc>
+    </quocgia>
+    <quocgia>
+        <hinh>malaysia</hinh>
+        <ten>Malaysia</ten>
+        <dientich>329,847 km2</dientich>
+        <danso>33.200.000</danso>
+        <thudo>Kuala Lumpur</thudo>
+        <chauluc>Châu Á</chauluc>
+    </quocgia>
+    <quocgia>
+        <hinh>uc</hinh>
+        <ten>Úc</ten>
+        <dientich>7.688.000 km2</dientich>
+        <danso>26.664.624</danso>
+        <thudo>Canberra</thudo>
+        <chauluc>Châu Đại Dương</chauluc>
+    </quocgia>
+</dsquocgia>
